@@ -5,9 +5,9 @@
   <remote name="t25" fetch="https://github.com/TelegramAt25" />
   <remote name="25ji" fetch="https://github.com/25ji-Telegram-de" />
   <remote name="astechpro20" fetch="https://github.com/AsTechpro20" />
-  
+  <remote name="Jayedkhan800" fetch="https://github.com/Jayedkhan800" />
   <!-- Device Trees -->
-  <project path="device/xiaomi/blossom" name="android_device_xiaomi_blossom" remote="astechpro20" revision="lineage-22" />
+  <project path="device/xiaomi/blossom" name="android_device_xiaomi_blossom" remote="Jayedkhan800" revision="Voltage-15" />
 
   <!-- SELinux policies -->
   <project path="device/mediatek/sepolicy_vndr" name="android_device_mediatek_sepolicy_vndr" remote="astechpro20" revision="lineage-22" />
