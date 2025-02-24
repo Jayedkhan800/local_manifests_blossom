@@ -2,7 +2,7 @@
 <manifest>
   
   <!-- Remotes -->
-  <remote name="t25" fetch="https://github.com/TelegramAt25" />
+  <remote name="astechpro20" fetch="https://github.com/AsTechpro20" />
   <remote name="25ji" fetch="https://github.com/25ji-Telegram-de" />
   <remote name="Jayedkhan800" fetch="https://github.com/Jayedkhan800" />
   
